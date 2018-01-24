@@ -1,5 +1,6 @@
 # Zyra-Quest
 
+![A screenshot](screenshot.png)
 
 ## Getting Started
 
