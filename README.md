@@ -7,12 +7,12 @@
 You just have to run ZyraQuest.jar to play
  
 ## Control
-Use Arrow Keys to moove Zyra
-Use spacebar to shot, it is limited to 10 shot in the same time
-Walk on apple to heal yourself
-Before facing the boss you have a room where you can change the power of your attack by walking on the green sphere
-Watchout if you fall in hole, you will lose health
-To go to the next room you have to clear the room before accessing to the next room
+- Use Arrow Keys to moove Zyra
+- Use spacebar to shot, it is limited to 10 shot in the same time
+- Walk on apple to heal yourself
+- Before facing the boss you have a room where you can change the power of your attack by walking on the green sphere
+- Watchout if you fall in hole, you will lose health
+- To go to the next room you have to clear the room before accessing to the next room
 
 
 ## What I have done 
