@@ -24,7 +24,7 @@ I realized this game alone and everything has been made by myself wich mean :
      - Mage shot in your direction if you are in range, they do not move
      - Dragon : It can move to right or left, after moving he shot a fire to you. There is no pattern because it use some random to make it more difficult to beat. When he become low life, his speed increase.
 - Aim Algorithm : 
-     -To shot on the player I imagined an algorithm using slope between the player and the ennemy which is shooting to the player.
+     To shot on the player I imagined an algorithm using slope between the player and the ennemy which is shooting to the player.
 - Generic : I made a huge work to make most possible algorithm generic in order to add new item/ennemie/room etc.. very easily
 
 ## Conclusion
